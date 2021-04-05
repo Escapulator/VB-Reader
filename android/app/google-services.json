@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034960654059",
+    "firebase_url": "https://vbreader-7e004.firebaseio.com",
+    "project_id": "vbreader-7e004",
+    "storage_bucket": "vbreader-7e004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034960654059:android:9ed8fe35d3fef2a00cf8ae",
+        "android_client_info": {
+          "package_name": "com.vb.reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034960654059-om335picruvvljovv90tghak7c7rso12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABmbU1pUjQ0nWeAIfZNDjT2dtdi1kUy84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034960654059-om335picruvvljovv90tghak7c7rso12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
